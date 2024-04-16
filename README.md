@@ -30,22 +30,6 @@
 
 
 <div align="left">
-
-// tools_I_use organized
-
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "C",  Reactjs, "Javascript", , "c++", "Express", "NodeJs" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Tailwind", "SAAS" },
-    "Database" : { "Firebase", "MySQL" , "MongoDB"},
-    "Editors" : { "Vscode", "Atom, "Sublime", "NotePad++" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Blender", "NPM" }
-  };
-}
-</div>
-
-<div align="left">
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning  WebDev. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring GNU/Linux. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about Coding, Web, Anime or anything. <br>
