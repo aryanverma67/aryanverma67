@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 <h1> 👋 Hi, I am Aryan Verma</h1>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
+<img src="https://i.imgur.com/f1v3yWF.png" alt="Data Analyst & Developer" width="60%"/><br> 
 
 <hr></hr>
 
@@ -30,12 +30,25 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 
+<!-- Data Analyst Points -->
+<h2>📊 Data Analyst Skills:</h2>
+<ul align="left">
+  <li>Experienced in data cleaning and preparation using Excel and Python.</li>
+  <li>Proficient in creating interactive dashboards and reports in Power BI.</li>
+  <li>Strong SQL skills for database querying and manipulation.</li>
+  <li>Ability to analyze large datasets to extract meaningful insights.</li>
+  <li>Knowledge of statistical analysis and data visualization techniques.</li>
+</ul>
 
+<!-- Web Development Points -->
+<h2>💻 Web Development Skills:</h2>
+<ul align="left">
+  <li>Solid understanding of HTML/CSS for building responsive web pages.</li>
+  <li>Experienced in JavaScript for front-end functionality and interactivity.</li>
+  <li>Proficient in React.js for building modern web applications.</li>
+  <li>Skilled in integrating APIs and working with RESTful services.</li>
+  <li>Knowledgeable in backend technologies for full-stack development.</li>
+</ul>
 
-<div align="left">
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning  WebDev. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring GNU/Linux. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about Coding, Web, Anime or anything. <br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns 150 calories.<br>
 </div>
-<hr></hr>
+
