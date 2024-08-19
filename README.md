@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 <h1> 👋 Hi, I am Aryan Verma</h1>
-<img src="https://i.imgur.com/f1v3yWF.png" alt="Data Analyst & Developer" width="60%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
 
 <hr></hr>
 
